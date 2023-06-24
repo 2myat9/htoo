@@ -21,37 +21,37 @@ const Experience = () => {
           />
         </div>
         <div
-          className={`flex flex-wrap items-center justify-center gap-4 font-sans ${SpaceGrotesk.variable}`}
+          className={`flex flex-wrap items-start justify-center gap-4 font-sans ${SpaceGrotesk.variable}`}
         >
           <Card
             link="#"
-            title="Awesome Job Experience"
-            body="Ea et veniam aliqua excepteur ex excepteur dolor eiusmod. Ullamco ea sint aliquip elit amet tempor eiusmod nulla est fugiat. Exercitation officia qui enim aute mollit eu mollit eiusmod proident ut aliqua consectetur."
+            title="ClaremontBat"
+            body="ClaremontBat is a web app built for students in Intro to CS classes to practice their problem-solving skills using Python. Supervised by one of Harvey Mudd's CS Professors Zachary Dodds, I built this app for open-source using NextJS, Flask, and Firebase."
           />
           <Card
             link="#"
-            title="Awesome Job Experience"
-            body="Ea et veniam aliqua excepteur ex excepteur dolor eiusmod. Ullamco ea sint aliquip elit amet tempor eiusmod nulla est fugiat. Exercitation officia qui enim aute mollit eu mollit eiusmod proident ut aliqua consectetur."
+            title="Mixologic"
+            body="Currently in progress and aimed to roll out to App Store by the end of summer, Mixologic is a cross-platform software built for mixology enthusiasts from around the world."
           />
           <Card
             link="#"
-            title="Awesome Job Experience"
-            body="Ea et veniam aliqua excepteur ex excepteur dolor eiusmod. Ullamco ea sint aliquip elit amet tempor eiusmod nulla est fugiat. Exercitation officia qui enim aute mollit eu mollit eiusmod proident ut aliqua consectetur."
+            title="SWE @Flycoin inc."
+            body="During my Sophomore year summer, I interned as a Software Engineer for Flycoin inc, a Fintech startup with a vision of changing the future of Airline loyalty rewards through Crytocurrency."
           />
           <Card
             link="#"
-            title="Awesome Job Experience"
-            body="Ea et veniam aliqua excepteur ex excepteur dolor eiusmod. Ullamco ea sint aliquip elit amet tempor eiusmod nulla est fugiat. Exercitation officia qui enim aute mollit eu mollit eiusmod proident ut aliqua consectetur."
+            title="TS Gunpla"
+            body="Currently in progress, TS Gunpla is a portfolio website with CMS (Content Management System) capabilities built for my brother's hobby of building Gunpla models. Instead of website builders like Squarespace or Webflow, the goal is to build this from scratch using JavaScript."
           />
           <Card
             link="#"
-            title="Awesome Job Experience"
-            body="Ea et veniam aliqua excepteur ex excepteur dolor eiusmod. Ullamco ea sint aliquip elit amet tempor eiusmod nulla est fugiat. Exercitation officia qui enim aute mollit eu mollit eiusmod proident ut aliqua consectetur."
+            title="Evergreen"
+            body="During my Freshman year summer, I built this web application MVP in collaboration with another student and supervised under our CS professor. This Clinic project was funded by West Coast Arborists and aimed to provide an educational tool for elementary school students to learn about urban forestry and sustainability."
           />
           <Card
             link="#"
-            title="Awesome Job Experience"
-            body="Ea et veniam aliqua excepteur ex excepteur dolor eiusmod. Ullamco ea sint aliquip elit amet tempor eiusmod nulla est fugiat. Exercitation officia qui enim aute mollit eu mollit eiusmod proident ut aliqua consectetur."
+            title="JavaScript apps"
+            body="More fun JavaScript apps I built during my Freshman year can be found on my GitHub. Fun fact: A lot of them are still being hosted live via Netlify so you can play around with them!"
           />
         </div>
       </div>
