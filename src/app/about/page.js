@@ -27,7 +27,7 @@ const About = () => {
           >
             <TypeAnimation
               sequence={[
-                "Ut mollit adipisicing esse enim eiusmod. Velit ea sit qui fugiat id nulla eu. Fugiat magna non elit irure reprehenderit reprehenderit est id nulla veniam laboris anim. Ut mollit adipisicing esse enim eiusmod. Velit ea sit qui fugiat id nulla eu. Fugiat magna non elit irure reprehenderit reprehenderit est id nulla veniam laboris anim.",
+                "I'm Htoomyat Naing, but you can call me Htoo. I graduate from Harvey Mudd College in 2024 with a Bachelor of Science Degree in Computer Science. I'm passionate about developing user-friendly, high-performant applications for the web. When I'm not coding, I like to travel, practice photography, and learn new languages. Recently I've been getting into mixology. Follow me on social media if you want to get in touch!",
               ]}
               speed={90}
               style={{}}
@@ -51,7 +51,7 @@ const About = () => {
           >
             <TypeAnimation
               sequence={[
-                "Ut mollit adipisicing esse enim eiusmod. Velit ea sit qui fugiat id nulla eu. Fugiat magna non elit irure reprehenderit reprehenderit est id nulla veniam laboris anim.",
+                "I enjoy reiterating the process of building software, solving problems, and optimizing solutions. I am proficient and comfortable in developing applications for the web. However, as a Computer Scientist first and Software Engineer second, I am always curious and learning more everyday about new and emerging technologies such as Augmented Reality, Machine Learning, and the Blockchain.",
               ]}
               speed={90}
               style={{}}
