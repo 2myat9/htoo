@@ -27,26 +27,34 @@ const Contact = () => {
           />
         </div>
         <div className="flex gap-12">
-          <Image
-            className="duration-75 border-violet-600 hover:cursor-pointer hover:border-violet-600 hover:border-2 rounded-full"
-            src={Github}
-            alt="github icon"
-          />
-          <Image
-            className="duration-75 border-sky-600 hover:cursor-pointer hover:border-sky-600 hover:border-2 rounded-lg"
-            src={Linkedin}
-            alt="linkedin icon"
-          />
-          <Image
-            className="duration-75 border-rose-600 hover:cursor-pointer hover:border-rose-600 hover:border-2 rounded-lg"
-            src={Instagram}
-            alt="instagram icon"
-          />
-          <Image
-            className="duration-75 border-indigo-600 hover:cursor-pointer hover:border-indigo-600 hover:border-2 rounded-full"
-            src={Mail}
-            alt="mail icon"
-          />
+          <a href="https://github.com/2myat9" target="_blank">
+            <Image
+              className="duration-75 border-violet-600 hover:cursor-pointer hover:border-violet-600 hover:border-2 rounded-full"
+              src={Github}
+              alt="github icon"
+            />
+          </a>
+          <a href="https://www.linkedin.com/in/htoomyat/" target="_blank">
+            <Image
+              className="duration-75 border-sky-600 hover:cursor-pointer hover:border-sky-600 hover:border-2 rounded-lg"
+              src={Linkedin}
+              alt="linkedin icon"
+            />
+          </a>
+          <a href="https://www.instagram.com/2myat9/" target="_blank">
+            <Image
+              className="duration-75 border-rose-600 hover:cursor-pointer hover:border-rose-600 hover:border-2 rounded-lg"
+              src={Instagram}
+              alt="instagram icon"
+            />
+          </a>
+          <a href="mailto:2myat9@gmail.com" target="_blank">
+            <Image
+              className="duration-75 border-indigo-600 hover:cursor-pointer hover:border-indigo-600 hover:border-2 rounded-full"
+              src={Mail}
+              alt="mail icon"
+            />
+          </a>
         </div>
       </div>
     </div>
